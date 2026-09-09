@@ -7,7 +7,7 @@
 
 ---
 ### [SQL and Tableau](/pdf/sample_presentation.pdf)
-<img src="images/mysql logo.png" width="150"> &emsp;&emsp; <img src="images/sql lite logo.png" width="150"> &emsp;&emsp; <img src="images/tableau logo.png" width="200">
+<img src="images/mysql logo.png" width="150"> &emsp;&emsp; <img src="images/sql lite logo.png" width="150"> &emsp;&emsp; <img src="images/tableau logo.png" width="250">
 
 ---
 ### [Technical Directing](http://example.com/)
