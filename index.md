@@ -14,7 +14,7 @@
 ---
 ### [Technical Directing](http://example.com/)
 
-<img src="images/NewTek_logo.png" width="150"> &emsp;&emsp; <img src="images/sql lite logo.png" width="150"> &emsp;&emsp; <img src="images/tableau logo.png" width="250">
+<img src="images/NewTek_logo.png" width="150"> &emsp;&emsp; <img src="images/blackmagic logo.png" width="150"> &emsp;&emsp; <img src="images/grass valley logo.png" width="250">
 ---
 
 ### [Video Editing](http://example.com/)
