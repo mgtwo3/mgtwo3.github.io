@@ -3,12 +3,12 @@
 ---
 
 ### [Workflow Integrations](/sample_page)
-/br
+<br>
 <img src="images/n8n logo.png" width="200"> &emsp;&emsp; <img src="images/telestream logo.png" width="200"> &emsp;&emsp; <img src="images/runway logo.png" width="50">
 
 ---
 ### [SQL and Tableau](/pdf/sample_presentation.pdf)
-/br
+<br>
 <img src="images/mysql logo.png" width="150"> &emsp;&emsp; <img src="images/sql lite logo.png" width="150"> &emsp;&emsp; <img src="images/tableau logo.png" width="250">
 
 ---
