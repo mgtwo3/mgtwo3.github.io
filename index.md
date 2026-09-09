@@ -3,11 +3,11 @@
 ---
 
 ### [Workflow Integrations](/sample_page)
-<img src="images/n8n logo.png" width="300"> &emsp;&emsp; <img src="images/telestream logo.png" width="300" margin-bottom="100px"> &emsp;&emsp; <img src="images/runway logo.png" width="100">
+<img src="images/n8n logo.png" width="200"> &emsp;&emsp; <img src="images/telestream logo.png" width="200"> &emsp;&emsp; <img src="images/runway logo.png" width="200">
 
 ---
 ### [SQL and Tableau](/pdf/sample_presentation.pdf)
-
+<img src="images/mysql logo.png" width="300"> 
 
 ---
 ### [Technical Directing](http://example.com/)
