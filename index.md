@@ -3,7 +3,7 @@
 ---
 
 ### [Workflow Integrations](/sample_page)
-<img src="images/n8n logo.png?raw=true"/>
+<img src="images/n8n logo.png" width="350">
 
 ---
 ### [SQL and Tableau](/pdf/sample_presentation.pdf)
