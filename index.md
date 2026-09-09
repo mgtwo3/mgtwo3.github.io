@@ -3,7 +3,7 @@
 ---
 
 ### [Workflow Integrations](/sample_page)
-<img src="images/n8n logo.png" width="100"> <img src="images/telestream logo.png" width="100"> <img src="images/runway logo.png" width="100">
+<img src="images/n8n logo.png" width="100" height="100"> <img src="images/telestream logo.png" width="100" height="100"> <img src="images/runway logo.png" width="100" height="100">
 
 ---
 ### [SQL and Tableau](/pdf/sample_presentation.pdf)
