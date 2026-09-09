@@ -2,21 +2,21 @@
 
 ---
 
-[Workflow Integrations](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Workflow Integrations](/sample_page)
+
 
 ---
-[SQL and Tableau](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [SQL and Tableau](/pdf/sample_presentation.pdf)
+
 
 ---
-[Technical Directing](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Technical Directing](http://example.com/)
+
 
 ---
 
-[Video Editing](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### [Video Editing](http://example.com/)
+
 
 ---
 
