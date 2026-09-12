@@ -7,5 +7,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="https://www.linkedin.com/in/markjgillespie/">View My LinkedIn Profile</a> 
   
-remote_theme: dracula/gh-pages
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
+
+minima:
+  skin: dark
 
