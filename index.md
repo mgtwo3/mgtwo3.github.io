@@ -4,7 +4,7 @@
 
 ---
 
-### [Workflow Integrations](/sample_page)
+### [Workflow Integrations](workflows)
 
 <img src="images/n8n logo.png" width="200"> &emsp;&emsp; <img src="images/telestream logo.png" width="200"> &emsp;&emsp; <img src="images/runway logo.png" width="50"> &emsp;&emsp; <img src="images/aws logo.png" width="100">
 
