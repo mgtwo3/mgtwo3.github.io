@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-<body style="background-color:black;">
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
 
 ## Portfolio
 
@@ -32,9 +24,3 @@
 
 ---
 
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
